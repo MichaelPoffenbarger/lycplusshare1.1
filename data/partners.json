@@ -106,6 +106,36 @@
         "donation": "10000"
       },
       {
+        "id": 27,
+        "name": "OMG-Optimize, Market, Grow",
+        "category": "media & marketing",
+        "description": "OMG (Optimize, Market, Grow) is a Digital Marketing Agency offering various business services such as Graphic & Website Design, Social Media & Email Marketing, SEO, CRM Implementation",
+        "address": "",
+        "phone": "(817) 917-6578",
+        "website": "www.cityhealthcenter.com",
+        "image": "https://images.squarespace-cdn.com/content/v1/6411fc36b2cfc644c3df27c5/aaeea48f-e9ea-4841-9a5f-9caa771450db/Untitled+design+%2835%29.png?format=300w",
+        "tags": ["Marketing", "Advertising", "Design"],
+        "facebook": "https://www.facebook.com/omgdigitalmarketing",
+        "instagram": "https://www.instagram.com/omgdigitalmarketing",
+        "twitter": "https://www.twitter.com/omgdigitalmarketing",
+        "linkedin": "https://www.linkedin.com/omgdigitalmarketing",
+        "donation": ""
+      },
+      {
+        "id": 27,
+        "name": "STRONGBOW Media",
+        "category": "media & marketing",
+        "description": "STRONGBOW Media is a Digital Marketing Agency offering various business services such as Graphic & Website Design, and Web Development",
+        "address": "Fort Worth, TX",
+        "phone": "(607) 972-1834",
+        "website": "www.strongbow.media",
+        "image": "https://strongbow.media/img/strongbowPlay.png",
+        "tags": ["Marketing", "Advertising", "Design"],
+        "facebook": "https://www.facebook.com/profile.php?id=61566401364445",
+        "instagram": "",
+        "donation": "3453"
+      },
+      {
         "id": 1,
         "name": "City of Azle",
         "category": "all",
@@ -474,22 +504,7 @@
         "linkedin": "https://www.linkedin.com/unitedcountry",
         "donation": ""
       },
-      {
-        "id": 27,
-        "name": "OMG-Optimize, Market, Grow",
-        "category": "media & marketing",
-        "description": "OMG (Optimize, Market, Grow) is a Digital Marketing Agency offering various business services such as Graphic & Website Design, Social Media & Email Marketing, SEO, CRM Implementation",
-        "address": "",
-        "phone": "(817) 917-6578",
-        "website": "www.cityhealthcenter.com",
-        "image": "https://images.squarespace-cdn.com/content/v1/6411fc36b2cfc644c3df27c5/aaeea48f-e9ea-4841-9a5f-9caa771450db/Untitled+design+%2835%29.png?format=300w",
-        "tags": ["Marketing", "Advertising", "Design"],
-        "facebook": "https://www.facebook.com/omgdigitalmarketing",
-        "instagram": "https://www.instagram.com/omgdigitalmarketing",
-        "twitter": "https://www.twitter.com/omgdigitalmarketing",
-        "linkedin": "https://www.linkedin.com/omgdigitalmarketing",
-        "donation": ""
-      },
+      
       {
         "id": 28,
         "name": "Office On Main",
